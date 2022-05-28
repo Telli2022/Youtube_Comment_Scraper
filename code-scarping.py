@@ -45,10 +45,6 @@ if __name__ == "__main__":
         "https://www.youtube.com/watch?v=LEGXYvaWfUM
 https://www.youtube.com/watch?v=UXbldVIVEFY&list=RDCMUCAy5nPrbVk_jxcQJyKnP81Q&index=2
 https://www.youtube.com/watch?v=TxW1HRCXgxM&list=RDCMUCAy5nPrbVk_jxcQJyKnP81Q&index=4
-https://www.youtube.com/watch?v=CXvNeQ5ia4Q&list=RDCMUCAy5nPrbVk_jxcQJyKnP81Q&index=5
-
-",
-        "https://www.youtube.com/watch?v=MkE_EwO76b0",
-        'https://www.youtube.com/watch?v=XVv6mJpFOb0',
+https://www.youtube.com/watch?v=CXvNeQ5ia4Q&list=RDCMUCAy5nPrbVk_jxcQJyKnP81Q&index=5',
     ]
     ScrapComment(urls[0])
